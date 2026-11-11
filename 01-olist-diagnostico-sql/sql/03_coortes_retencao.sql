@@ -1,0 +1,1 @@
+-- TODO: retenção por coorte mensal de primeiro pedido

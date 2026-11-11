@@ -1,0 +1,1 @@
+-- TODO: funil (criado -> aprovado -> enviado -> entregue)
